@@ -1,23 +1,27 @@
 # CS-370-Portfolio
 
-Portfolio containing the projects from CS-370 Current/Emerging Trends in Computer Science.
+Portfolio containing the assignments and project from CS-370 Current/Emerging Trends in Computer Science.
 
-## Project Summary
+## Module 2 Assignment
 
-*Briefly explain the work that you did on this project: What code were you given?  What code did you create yourself?*
+[Assignment 2](../Module%202%20Assignment/Slutz_Eric_Assignment2.ipynb)
+
+In this assignment involved modifying the parameters of a neural network in Keras and how changing the parameters effected the results.
+
+## Module 3 Assignment
+
+[Assignment 3](../Module%203%20Assignment/Slutz_Eric_Assignment3.ipynb)
+
+This assignment involved training a convolutional neural networks in Keras and using it to make predictions.
+
+## Module 5 Assignment
+
+[Assignment 5](../Module%205%20Assignment/Slutz_Eric_Assignment5.ipynb)
+
+For this assignment, it involved working with OpenAI Gym to apply the concepts of Q-learning algorithms to the “cartpole” problem, a common reinforcement learning problem.
+
+## Project
+
+[Main Project File](../Project/Slutz_Eric_ProjectTwo.ipynb)
 
 In this project we needed to complete the Q-Training Algorithm code block.  The goal of the deep Q-learning implementation is to find the best possible navigation sequence that results in reaching the treasure cell while maximizing the reward.  Other than the training algorithm, we were given all other code for the treasure maze project.
-
-## Connect your learning from throughout this course to the larger field of computer science
-
-### What do computer scientists do and why does it matter?
-
-Computer scientists are responsible for designing and writing the programs that run the world today.  It matters because no matter where you turn you'll run into something that wouldn't be possible without computer science.
-
-### How do I approach a problem as a computer scientist?
-
-When approaching a problem as a computer scientist, I find it best to break the problem down into smaller parts.  From there I determine the best place to begin and start solving that small part of the problem.  As more parts are completed I'm able to take on more and more complicated parts of the problem until the entire thing is solved.
-
-### What are my ethical responsibilities to the end user and the organization?
-
-Computer scientists are ethically responsible to their end-users and organizations. They work to ensure their work is reliable, secure, and accessible, while also upholding ethical standards and acting in the best interests of their organizations and users.
